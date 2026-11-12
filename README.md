@@ -64,7 +64,6 @@ imdb-sentiment-analysis/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── Project_Report.docx
 └── data/                            # Local, not uploaded
     ├── aclImdb/                     # Downloaded IMDb dataset
     │   ├── train/{pos,neg}/
